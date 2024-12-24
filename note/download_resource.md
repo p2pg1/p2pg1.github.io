@@ -24,3 +24,5 @@ https://book.douban.com/subject/4860605/
 
 # paper
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+
+[Distributed Representations of Words and Phrases and their Compositionality](https://arxiv.org/pdf/1310.4546)
