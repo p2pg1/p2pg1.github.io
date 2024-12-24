@@ -1,8 +1,7 @@
 网站：
-douban.com
-https://zh.z-lib.gs/
+https://douban.com, https://zh.z-lib.gs, https://arxiv.org
 
-钢琴
+# 钢琴
 
 哈农钢琴练指法  [法] 哈农 编写 9.4分 1232人评价 页数: 115
 https://book.douban.com/subject/1493350/
@@ -22,3 +21,6 @@ https://book.douban.com/subject/1092039/
 
 钢琴笔记 查尔斯·罗森 7.8分 84人评价 页数: 162
 https://book.douban.com/subject/4860605/
+
+# paper
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
